@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+p{
+    background-color: #ff699b;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.n4{
+    background-color: rgb(170, 253, 170);
+    font-size:24px;
+    font-weight:bold;
+}
